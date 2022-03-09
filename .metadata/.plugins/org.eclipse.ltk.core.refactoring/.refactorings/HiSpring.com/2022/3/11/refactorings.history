@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HiSpring.com/Webcontent/WEB-INF/Dad-Front-controller-servlet.xml&apos; to &apos;Some-Front-controller-servlet.xml&apos;" description="Rename resource &apos;Dad-Front-controller-servlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Webcontent/WEB-INF/Dad-Front-controller-servlet.xml" name="Some-Front-controller-servlet.xml" stamp="1646784161599" updateReferences="true"/>
+</session>

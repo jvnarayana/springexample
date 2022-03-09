@@ -1,0 +1,7 @@
+<classpath>
+  <container id="homeSpringMvc!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/venkata.jadda/eclipse-workspace/homeSpringMvc/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar">
+      <source-attachment-path>C:/Java/Spring softwares/spring-framework-main</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
